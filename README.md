@@ -1,2 +1,2 @@
 # quiz_app
-### Second flutter project
+### Second basic flutter project
